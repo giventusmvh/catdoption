@@ -38,7 +38,7 @@ struct PetAdoptionView: View {
 }
 
 struct PetCard: View {
-    var petModel : PetModel = PetModel(name: "Leppy", type: "Domestic", distance: 1.0, weight: 3.0, gender: "Male")
+    var petModel : PetModel = PetModel(name: "Leppy2", type: "Domestic", distance: 1.0, weight: 3.0, gender: "Male")
     
     var body: some View {
         HStack {
